@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.*;
 //modificato online
 public class Treno {
-	
+	//modificato online 2
 	private Vagone listaVagoni[];
 	private int numVagPresenti, numVagMax;
 	private String nomeTreno;
